@@ -16,6 +16,8 @@ UI contains a screen for displaying the details for a selected movie.
 Movie details layout contains title, release date, movie poster, vote average, and plot synopsis.
 
 App utilizes stable release versions of all libraries, Gradle, and Android Studio.
+![IMG_٢٠١٩٠٤٢٧_١٩٣٥١٤](https://user-images.githubusercontent.com/37781969/56853490-64627980-6931-11e9-8baf-f8ab63376c8f.jpg)
+![IMG_٢٠١٩٠٤٢٧_١٩٣٥٣٢](https://user-images.githubusercontent.com/37781969/56853491-66c4d380-6931-11e9-8822-f41a82aafd71.jpg)
 
 User Interface - Function
 
