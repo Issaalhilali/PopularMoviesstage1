@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popular Movies-stage1</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="MovieDetails">Movie Details</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_internet_connection_description">Check your mobile data or Wi-Fi connection</string>
+    <string name="retry">Retry</string>
+    <string name="list_loading_error">Error getting Movies list.</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+</resources>

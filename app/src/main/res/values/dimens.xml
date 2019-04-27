@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_layout_margin_bottom">16dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="tv_layout_margin">10dp</dimen>
+    <dimen name="tv_synopsis_size">14sp</dimen>
+    <dimen name="tv_other_size">20sp</dimen>
+    <dimen name="list_layout_margin">2dp</dimen>
+    <dimen name="recycler_view_width">0dp</dimen>
+    <dimen name="recycler_view_height">0dp</dimen>
+</resources>
